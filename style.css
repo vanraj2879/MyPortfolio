@@ -5,6 +5,7 @@
 * {
   margin: 0;
   padding: 0;
+  
 }
 
 body {
@@ -271,6 +272,9 @@ section {
   gap: 2rem;
   margin-bottom: 2rem;
   margin-top: 2rem;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .about-details-container {
